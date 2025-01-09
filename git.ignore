@@ -1,0 +1,21 @@
+# Ignore datasets
+*.csv
+*.xlsx
+*.docx
+*.pdf
+
+# Ignore generated images
+*.png
+*.jpg
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore logs or temporary files
+*.log
+*.tmp
